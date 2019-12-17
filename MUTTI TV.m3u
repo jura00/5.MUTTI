@@ -2,7 +2,7 @@
 #EXTINF:0,1.  IНТЕР
 http://aec84642.ottv.info/iptv/56V7HQZLR3M2RQ/937/index.m3u8
 #EXTINF:0,2.  СТБ
-http://51.15.176.84/hls/stb-ua/index.m3u8
+http://50.7.244.58:8080/stb/mono.m3u8
 #EXTINF:0,3.  РЕПОРТЕР
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
 #EXTINF:0,4.  НТВ
@@ -81,7 +81,8 @@ http://aec84642.ottv.info/iptv/56V7HQZLR3M2RQ/722/index.m3u8
 http://aec84642.ottv.info/iptv/56V7HQZLR3M2RQ/126/index.m3u8
 #EXTINF:0,41. РУССКИЙ ДЕТЕКТИВ
 http://aec84642.ottv.info/iptv/56V7HQZLR3M2RQ/907/index.m3u8
-
+#EXTINF:0,42. ПОБЕДА
+http://188.113.190.12/85/video.m3u8
 
 
 
